@@ -1,0 +1,8 @@
+123456;Max;  Mustermann
+123457;   Claudia;König
+123458;Peter;König
+234567 ;Klaus;Schmidt
+234568;Lisa;Müller
+234569;Sabine; Klein
+345678;Tobias;Müller
+345679;Petra;Fischer
